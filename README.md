@@ -41,14 +41,17 @@ Repository: [https://github.com/AirdropLaura/Aztec_autoinstall_sequencer.git](ht
 ```bash
 # Clone the repository
 git clone https://github.com/AirdropLaura/Aztec_autoinstall_sequencer.git
-
+```
 # Go to the directory
+```
 cd Aztec_autoinstall_sequencer
-
+```
 # Make the script executable
+```
 chmod +x aztecc.sh
-
+```
 # Run the script
+```
 ./aztecc.sh
 ```
 
