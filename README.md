@@ -36,12 +36,19 @@ Repository: [https://github.com/AirdropLaura/Aztec_autoinstall_sequencer.git](ht
 
 ## 🛠️ Installation & Usage
 
+# install node js
+```
+sudo apt update
+sudo apt install -y nodejs npm
+```
+
 ### Quick Install
 
 ```bash
 # Clone the repository
 git clone https://github.com/AirdropLaura/Aztec_autoinstall_sequencer.git
 ```
+
 # Go to the directory
 ```
 cd Aztec_autoinstall_sequencer
